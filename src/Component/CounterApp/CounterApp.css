@@ -1,0 +1,12 @@
+
+.counter-style{
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.counter-style .value{
+    font-size: 50px;
+}
